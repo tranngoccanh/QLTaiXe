@@ -1,0 +1,239 @@
+C:\Users\DELL\Downloads\QLTX\QLTX\QLTX\bin\Debug\PJ_For_Wang_Test.exe.config
+C:\Users\DELL\Downloads\QLTX\QLTX\QLTX\bin\Debug\PJ_For_Wang_Test.exe
+C:\Users\DELL\Downloads\QLTX\QLTX\QLTX\bin\Debug\PJ_For_Wang_Test.pdb
+C:\Users\DELL\Downloads\QLTX\QLTX\QLTX\bin\Debug\Azure.Core.xml
+C:\Users\DELL\Downloads\QLTX\QLTX\QLTX\bin\Debug\Azure.Identity.xml
+C:\Users\DELL\Downloads\QLTX\QLTX\QLTX\bin\Debug\Bunifu.UI.WinForms.xml
+C:\Users\DELL\Downloads\QLTX\QLTX\QLTX\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+C:\Users\DELL\Downloads\QLTX\QLTX\QLTX\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\DELL\Downloads\QLTX\QLTX\QLTX\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\Users\DELL\Downloads\QLTX\QLTX\QLTX\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\DELL\Downloads\QLTX\QLTX\QLTX\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+C:\Users\DELL\Downloads\QLTX\QLTX\QLTX\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\DELL\Downloads\QLTX\QLTX\QLTX\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\DELL\Downloads\QLTX\QLTX\QLTX\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\DELL\Downloads\QLTX\QLTX\QLTX\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\DELL\Downloads\QLTX\QLTX\QLTX\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\DELL\Downloads\QLTX\QLTX\QLTX\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\DELL\Downloads\QLTX\QLTX\QLTX\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\DELL\Downloads\QLTX\QLTX\QLTX\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+C:\Users\DELL\Downloads\QLTX\QLTX\QLTX\bin\Debug\Microsoft.Win32.SystemEvents.xml
+C:\Users\DELL\Downloads\QLTX\QLTX\QLTX\bin\Debug\Newtonsoft.Json.xml
+C:\Users\DELL\Downloads\QLTX\QLTX\QLTX\bin\Debug\RestSharp.xml
+C:\Users\DELL\Downloads\QLTX\QLTX\QLTX\bin\Debug\System.Buffers.xml
+C:\Users\DELL\Downloads\QLTX\QLTX\QLTX\bin\Debug\System.CodeDom.xml
+C:\Users\DELL\Downloads\QLTX\QLTX\QLTX\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\DELL\Downloads\QLTX\QLTX\QLTX\bin\Debug\System.Data.Odbc.xml
+C:\Users\DELL\Downloads\QLTX\QLTX\QLTX\bin\Debug\System.Data.OleDb.xml
+C:\Users\DELL\Downloads\QLTX\QLTX\QLTX\bin\Debug\System.Data.SqlClient.xml
+C:\Users\DELL\Downloads\QLTX\QLTX\QLTX\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\DELL\Downloads\QLTX\QLTX\QLTX\bin\Debug\System.Diagnostics.EventLog.xml
+C:\Users\DELL\Downloads\QLTX\QLTX\QLTX\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+C:\Users\DELL\Downloads\QLTX\QLTX\QLTX\bin\Debug\System.Drawing.Common.xml
+C:\Users\DELL\Downloads\QLTX\QLTX\QLTX\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\DELL\Downloads\QLTX\QLTX\QLTX\bin\Debug\System.IO.FileSystem.AccessControl.xml
+C:\Users\DELL\Downloads\QLTX\QLTX\QLTX\bin\Debug\System.IO.Packaging.xml
+C:\Users\DELL\Downloads\QLTX\QLTX\QLTX\bin\Debug\System.IO.Ports.xml
+C:\Users\DELL\Downloads\QLTX\QLTX\QLTX\bin\Debug\System.Memory.xml
+C:\Users\DELL\Downloads\QLTX\QLTX\QLTX\bin\Debug\System.Memory.Data.xml
+C:\Users\DELL\Downloads\QLTX\QLTX\QLTX\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\DELL\Downloads\QLTX\QLTX\QLTX\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\DELL\Downloads\QLTX\QLTX\QLTX\bin\Debug\System.Security.AccessControl.xml
+C:\Users\DELL\Downloads\QLTX\QLTX\QLTX\bin\Debug\System.Security.Cryptography.Cng.xml
+C:\Users\DELL\Downloads\QLTX\QLTX\QLTX\bin\Debug\System.Security.Cryptography.Pkcs.xml
+C:\Users\DELL\Downloads\QLTX\QLTX\QLTX\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\DELL\Downloads\QLTX\QLTX\QLTX\bin\Debug\System.Security.Cryptography.Xml.xml
+C:\Users\DELL\Downloads\QLTX\QLTX\QLTX\bin\Debug\System.Security.Permissions.xml
+C:\Users\DELL\Downloads\QLTX\QLTX\QLTX\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\DELL\Downloads\QLTX\QLTX\QLTX\bin\Debug\System.ServiceModel.Syndication.xml
+C:\Users\DELL\Downloads\QLTX\QLTX\QLTX\bin\Debug\System.ServiceProcess.ServiceController.xml
+C:\Users\DELL\Downloads\QLTX\QLTX\QLTX\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\DELL\Downloads\QLTX\QLTX\QLTX\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\DELL\Downloads\QLTX\QLTX\QLTX\bin\Debug\System.Text.Json.xml
+C:\Users\DELL\Downloads\QLTX\QLTX\QLTX\bin\Debug\System.Threading.AccessControl.xml
+C:\Users\DELL\Downloads\QLTX\QLTX\QLTX\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\DELL\Downloads\QLTX\QLTX\QLTX\bin\Debug\System.ValueTuple.xml
+C:\Users\DELL\Downloads\QLTX\QLTX\QLTX\obj\Debug\QLTX.csproj.AssemblyReference.cache
+C:\Users\DELL\Downloads\QLTX\QLTX\QLTX\obj\Debug\PJ_For_Wang_Test.Form1.resources
+C:\Users\DELL\Downloads\QLTX\QLTX\QLTX\obj\Debug\PJ_For_Wang_Test.Forms.FormBangLuong.resources
+C:\Users\DELL\Downloads\QLTX\QLTX\QLTX\obj\Debug\PJ_For_Wang_Test.Forms.FormBaoCao.resources
+C:\Users\DELL\Downloads\QLTX\QLTX\QLTX\obj\Debug\PJ_For_Wang_Test.Forms.FormGioHD.resources
+C:\Users\DELL\Downloads\QLTX\QLTX\QLTX\obj\Debug\PJ_For_Wang_Test.Forms.FormTaiXe.resources
+C:\Users\DELL\Downloads\QLTX\QLTX\QLTX\obj\Debug\PJ_For_Wang_Test.Forms.FormQLPT.resources
+C:\Users\DELL\Downloads\QLTX\QLTX\QLTX\obj\Debug\PJ_For_Wang_Test.Forms.FormQuanLyVi.resources
+C:\Users\DELL\Downloads\QLTX\QLTX\QLTX\obj\Debug\PJ_For_Wang_Test.Login.resources
+C:\Users\DELL\Downloads\QLTX\QLTX\QLTX\obj\Debug\PJ_For_Wang_Test.PopsUp.PopUpBangLuong_Add.resources
+C:\Users\DELL\Downloads\QLTX\QLTX\QLTX\obj\Debug\PJ_For_Wang_Test.PopsUp.PopUpBangLuong_Delete.resources
+C:\Users\DELL\Downloads\QLTX\QLTX\QLTX\obj\Debug\PJ_For_Wang_Test.PopsUp.PopUpBangLuong_Update.resources
+C:\Users\DELL\Downloads\QLTX\QLTX\QLTX\obj\Debug\PJ_For_Wang_Test.PopsUp.PopUpGioHD_Add.resources
+C:\Users\DELL\Downloads\QLTX\QLTX\QLTX\obj\Debug\PJ_For_Wang_Test.PopsUp.PopUpGioHD_Delete.resources
+C:\Users\DELL\Downloads\QLTX\QLTX\QLTX\obj\Debug\PJ_For_Wang_Test.PopsUp.PopUpGioHD_Update.resources
+C:\Users\DELL\Downloads\QLTX\QLTX\QLTX\obj\Debug\PJ_For_Wang_Test.PopsUp.PopUp_QLPT_Add.resources
+C:\Users\DELL\Downloads\QLTX\QLTX\QLTX\obj\Debug\PJ_For_Wang_Test.PopsUp.PopUp_QLPT_Delete.resources
+C:\Users\DELL\Downloads\QLTX\QLTX\QLTX\obj\Debug\PJ_For_Wang_Test.PopsUp.PopUp_QLPT_Update.resources
+C:\Users\DELL\Downloads\QLTX\QLTX\QLTX\obj\Debug\PJ_For_Wang_Test.PopsUp.PopUp_QLTX_ADD.resources
+C:\Users\DELL\Downloads\QLTX\QLTX\QLTX\obj\Debug\PJ_For_Wang_Test.PopsUp.PopUp_QLTX_Delete.resources
+C:\Users\DELL\Downloads\QLTX\QLTX\QLTX\obj\Debug\PJ_For_Wang_Test.PopsUp.PopUp_QLTX_Update.resources
+C:\Users\DELL\Downloads\QLTX\QLTX\QLTX\obj\Debug\PJ_For_Wang_Test.PopsUp.QLPT_PopUp.resources
+C:\Users\DELL\Downloads\QLTX\QLTX\QLTX\obj\Debug\PJ_For_Wang_Test.Properties.Resources.resources
+C:\Users\DELL\Downloads\QLTX\QLTX\QLTX\obj\Debug\QLTX.csproj.GenerateResource.cache
+C:\Users\DELL\Downloads\QLTX\QLTX\QLTX\obj\Debug\QLTX.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Downloads\QLTX\QLTX\QLTX\obj\Debug\QLTX.csproj.Fody.CopyLocal.cache
+C:\Users\DELL\Downloads\QLTX\QLTX\QLTX\obj\Debug\QLTX.csproj.CopyComplete
+C:\Users\DELL\Downloads\QLTX\QLTX\QLTX\obj\Debug\PJ_For_Wang_Test.exe
+C:\Users\DELL\Downloads\QLTX\QLTX\QLTX\obj\Debug\PJ_For_Wang_Test.pdb
+D:\QLTX\QLTX\QLTX\QLTX\bin\Debug\PJ_For_Wang_Test.exe.config
+D:\QLTX\QLTX\QLTX\QLTX\bin\Debug\PJ_For_Wang_Test.exe
+D:\QLTX\QLTX\QLTX\QLTX\bin\Debug\PJ_For_Wang_Test.pdb
+D:\QLTX\QLTX\QLTX\QLTX\bin\Debug\Azure.Core.xml
+D:\QLTX\QLTX\QLTX\QLTX\bin\Debug\Azure.Identity.xml
+D:\QLTX\QLTX\QLTX\QLTX\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\QLTX\QLTX\QLTX\QLTX\bin\Debug\Microsoft.Data.SqlClient.xml
+D:\QLTX\QLTX\QLTX\QLTX\bin\Debug\Microsoft.Identity.Client.xml
+D:\QLTX\QLTX\QLTX\QLTX\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+D:\QLTX\QLTX\QLTX\QLTX\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+D:\QLTX\QLTX\QLTX\QLTX\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+D:\QLTX\QLTX\QLTX\QLTX\bin\Debug\Microsoft.IdentityModel.Logging.xml
+D:\QLTX\QLTX\QLTX\QLTX\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+D:\QLTX\QLTX\QLTX\QLTX\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+D:\QLTX\QLTX\QLTX\QLTX\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+D:\QLTX\QLTX\QLTX\QLTX\bin\Debug\Microsoft.Win32.Registry.xml
+D:\QLTX\QLTX\QLTX\QLTX\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+D:\QLTX\QLTX\QLTX\QLTX\bin\Debug\Microsoft.Win32.SystemEvents.xml
+D:\QLTX\QLTX\QLTX\QLTX\bin\Debug\Newtonsoft.Json.xml
+D:\QLTX\QLTX\QLTX\QLTX\bin\Debug\RestSharp.xml
+D:\QLTX\QLTX\QLTX\QLTX\bin\Debug\System.Buffers.xml
+D:\QLTX\QLTX\QLTX\QLTX\bin\Debug\System.CodeDom.xml
+D:\QLTX\QLTX\QLTX\QLTX\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\QLTX\QLTX\QLTX\QLTX\bin\Debug\System.Data.Odbc.xml
+D:\QLTX\QLTX\QLTX\QLTX\bin\Debug\System.Data.OleDb.xml
+D:\QLTX\QLTX\QLTX\QLTX\bin\Debug\System.Data.SqlClient.xml
+D:\QLTX\QLTX\QLTX\QLTX\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\QLTX\QLTX\QLTX\QLTX\bin\Debug\System.Diagnostics.EventLog.xml
+D:\QLTX\QLTX\QLTX\QLTX\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+D:\QLTX\QLTX\QLTX\QLTX\bin\Debug\System.Drawing.Common.xml
+D:\QLTX\QLTX\QLTX\QLTX\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+D:\QLTX\QLTX\QLTX\QLTX\bin\Debug\System.IO.FileSystem.AccessControl.xml
+D:\QLTX\QLTX\QLTX\QLTX\bin\Debug\System.IO.Packaging.xml
+D:\QLTX\QLTX\QLTX\QLTX\bin\Debug\System.IO.Ports.xml
+D:\QLTX\QLTX\QLTX\QLTX\bin\Debug\System.Memory.xml
+D:\QLTX\QLTX\QLTX\QLTX\bin\Debug\System.Memory.Data.xml
+D:\QLTX\QLTX\QLTX\QLTX\bin\Debug\System.Numerics.Vectors.xml
+D:\QLTX\QLTX\QLTX\QLTX\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\QLTX\QLTX\QLTX\QLTX\bin\Debug\System.Security.AccessControl.xml
+D:\QLTX\QLTX\QLTX\QLTX\bin\Debug\System.Security.Cryptography.Cng.xml
+D:\QLTX\QLTX\QLTX\QLTX\bin\Debug\System.Security.Cryptography.Pkcs.xml
+D:\QLTX\QLTX\QLTX\QLTX\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+D:\QLTX\QLTX\QLTX\QLTX\bin\Debug\System.Security.Cryptography.Xml.xml
+D:\QLTX\QLTX\QLTX\QLTX\bin\Debug\System.Security.Permissions.xml
+D:\QLTX\QLTX\QLTX\QLTX\bin\Debug\System.Security.Principal.Windows.xml
+D:\QLTX\QLTX\QLTX\QLTX\bin\Debug\System.ServiceModel.Syndication.xml
+D:\QLTX\QLTX\QLTX\QLTX\bin\Debug\System.ServiceProcess.ServiceController.xml
+D:\QLTX\QLTX\QLTX\QLTX\bin\Debug\System.Text.Encoding.CodePages.xml
+D:\QLTX\QLTX\QLTX\QLTX\bin\Debug\System.Text.Encodings.Web.xml
+D:\QLTX\QLTX\QLTX\QLTX\bin\Debug\System.Text.Json.xml
+D:\QLTX\QLTX\QLTX\QLTX\bin\Debug\System.Threading.AccessControl.xml
+D:\QLTX\QLTX\QLTX\QLTX\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\QLTX\QLTX\QLTX\QLTX\bin\Debug\System.ValueTuple.xml
+D:\QLTX\QLTX\QLTX\QLTX\obj\Debug\QLTX.csproj.AssemblyReference.cache
+D:\QLTX\QLTX\QLTX\QLTX\obj\Debug\PJ_For_Wang_Test.Form1.resources
+D:\QLTX\QLTX\QLTX\QLTX\obj\Debug\PJ_For_Wang_Test.Forms.FormBangLuong.resources
+D:\QLTX\QLTX\QLTX\QLTX\obj\Debug\PJ_For_Wang_Test.Forms.FormBaoCao.resources
+D:\QLTX\QLTX\QLTX\QLTX\obj\Debug\PJ_For_Wang_Test.Forms.FormGioHD.resources
+D:\QLTX\QLTX\QLTX\QLTX\obj\Debug\PJ_For_Wang_Test.Forms.FormTaiXe.resources
+D:\QLTX\QLTX\QLTX\QLTX\obj\Debug\PJ_For_Wang_Test.Forms.FormQLPT.resources
+D:\QLTX\QLTX\QLTX\QLTX\obj\Debug\PJ_For_Wang_Test.Forms.FormQuanLyVi.resources
+D:\QLTX\QLTX\QLTX\QLTX\obj\Debug\PJ_For_Wang_Test.Login.resources
+D:\QLTX\QLTX\QLTX\QLTX\obj\Debug\PJ_For_Wang_Test.PopsUp.PopUpBangLuong_Add.resources
+D:\QLTX\QLTX\QLTX\QLTX\obj\Debug\PJ_For_Wang_Test.PopsUp.PopUpBangLuong_Delete.resources
+D:\QLTX\QLTX\QLTX\QLTX\obj\Debug\PJ_For_Wang_Test.PopsUp.PopUpBangLuong_Update.resources
+D:\QLTX\QLTX\QLTX\QLTX\obj\Debug\PJ_For_Wang_Test.PopsUp.PopUpGioHD_Add.resources
+D:\QLTX\QLTX\QLTX\QLTX\obj\Debug\PJ_For_Wang_Test.PopsUp.PopUpGioHD_Delete.resources
+D:\QLTX\QLTX\QLTX\QLTX\obj\Debug\PJ_For_Wang_Test.PopsUp.PopUpGioHD_Update.resources
+D:\QLTX\QLTX\QLTX\QLTX\obj\Debug\PJ_For_Wang_Test.PopsUp.PopUp_QLPT_Add.resources
+D:\QLTX\QLTX\QLTX\QLTX\obj\Debug\PJ_For_Wang_Test.PopsUp.PopUp_QLPT_Delete.resources
+D:\QLTX\QLTX\QLTX\QLTX\obj\Debug\PJ_For_Wang_Test.PopsUp.PopUp_QLPT_Update.resources
+D:\QLTX\QLTX\QLTX\QLTX\obj\Debug\PJ_For_Wang_Test.PopsUp.PopUp_QLTX_ADD.resources
+D:\QLTX\QLTX\QLTX\QLTX\obj\Debug\PJ_For_Wang_Test.PopsUp.PopUp_QLTX_Delete.resources
+D:\QLTX\QLTX\QLTX\QLTX\obj\Debug\PJ_For_Wang_Test.PopsUp.PopUp_QLTX_Update.resources
+D:\QLTX\QLTX\QLTX\QLTX\obj\Debug\PJ_For_Wang_Test.Properties.Resources.resources
+D:\QLTX\QLTX\QLTX\QLTX\obj\Debug\QLTX.csproj.GenerateResource.cache
+D:\QLTX\QLTX\QLTX\QLTX\obj\Debug\QLTX.csproj.CoreCompileInputs.cache
+D:\QLTX\QLTX\QLTX\QLTX\obj\Debug\QLTX.csproj.Fody.CopyLocal.cache
+D:\QLTX\QLTX\QLTX\QLTX\obj\Debug\QLTX.csproj.CopyComplete
+D:\QLTX\QLTX\QLTX\QLTX\obj\Debug\PJ_For_Wang_Test.exe
+D:\QLTX\QLTX\QLTX\QLTX\obj\Debug\PJ_For_Wang_Test.pdb
+D:\QLTX\QLTX\QLTX\QLTX\obj\Debug\PJ_For_Wang_Test.PopsUp.PopUp_SoDuViDuoi.resources
+D:\QLTX\QLTX\QLTX\QLTX\obj\Debug\PJ_For_Wang_Test.PopsUp.PopUp_SoDuViTren.resources
+C:\Users\Lenovo\OneDrive\Documents\Năm 4 - Kì1\Kiểm thử và đảm bảo chất lượng PM\QLTX1\QLTX1\QLTX\QLTX\QLTX\QLTX\bin\Debug\PJ_For_Wang_Test.exe.config
+C:\Users\Lenovo\OneDrive\Documents\Năm 4 - Kì1\Kiểm thử và đảm bảo chất lượng PM\QLTX1\QLTX1\QLTX\QLTX\QLTX\QLTX\bin\Debug\PJ_For_Wang_Test.exe
+C:\Users\Lenovo\OneDrive\Documents\Năm 4 - Kì1\Kiểm thử và đảm bảo chất lượng PM\QLTX1\QLTX1\QLTX\QLTX\QLTX\QLTX\bin\Debug\PJ_For_Wang_Test.pdb
+C:\Users\Lenovo\OneDrive\Documents\Năm 4 - Kì1\Kiểm thử và đảm bảo chất lượng PM\QLTX1\QLTX1\QLTX\QLTX\QLTX\QLTX\bin\Debug\Azure.Core.xml
+C:\Users\Lenovo\OneDrive\Documents\Năm 4 - Kì1\Kiểm thử và đảm bảo chất lượng PM\QLTX1\QLTX1\QLTX\QLTX\QLTX\QLTX\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+C:\Users\Lenovo\OneDrive\Documents\Năm 4 - Kì1\Kiểm thử và đảm bảo chất lượng PM\QLTX1\QLTX1\QLTX\QLTX\QLTX\QLTX\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Lenovo\OneDrive\Documents\Năm 4 - Kì1\Kiểm thử và đảm bảo chất lượng PM\QLTX1\QLTX1\QLTX\QLTX\QLTX\QLTX\bin\Debug\Microsoft.Win32.SystemEvents.xml
+C:\Users\Lenovo\OneDrive\Documents\Năm 4 - Kì1\Kiểm thử và đảm bảo chất lượng PM\QLTX1\QLTX1\QLTX\QLTX\QLTX\QLTX\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\Lenovo\OneDrive\Documents\Năm 4 - Kì1\Kiểm thử và đảm bảo chất lượng PM\QLTX1\QLTX1\QLTX\QLTX\QLTX\QLTX\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Lenovo\OneDrive\Documents\Năm 4 - Kì1\Kiểm thử và đảm bảo chất lượng PM\QLTX1\QLTX1\QLTX\QLTX\QLTX\QLTX\bin\Debug\RestSharp.xml
+C:\Users\Lenovo\OneDrive\Documents\Năm 4 - Kì1\Kiểm thử và đảm bảo chất lượng PM\QLTX1\QLTX1\QLTX\QLTX\QLTX\QLTX\bin\Debug\System.Buffers.xml
+C:\Users\Lenovo\OneDrive\Documents\Năm 4 - Kì1\Kiểm thử và đảm bảo chất lượng PM\QLTX1\QLTX1\QLTX\QLTX\QLTX\QLTX\bin\Debug\System.CodeDom.xml
+C:\Users\Lenovo\OneDrive\Documents\Năm 4 - Kì1\Kiểm thử và đảm bảo chất lượng PM\QLTX1\QLTX1\QLTX\QLTX\QLTX\QLTX\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Lenovo\OneDrive\Documents\Năm 4 - Kì1\Kiểm thử và đảm bảo chất lượng PM\QLTX1\QLTX1\QLTX\QLTX\QLTX\QLTX\bin\Debug\System.Data.Odbc.xml
+C:\Users\Lenovo\OneDrive\Documents\Năm 4 - Kì1\Kiểm thử và đảm bảo chất lượng PM\QLTX1\QLTX1\QLTX\QLTX\QLTX\QLTX\bin\Debug\System.Data.OleDb.xml
+C:\Users\Lenovo\OneDrive\Documents\Năm 4 - Kì1\Kiểm thử và đảm bảo chất lượng PM\QLTX1\QLTX1\QLTX\QLTX\QLTX\QLTX\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Lenovo\OneDrive\Documents\Năm 4 - Kì1\Kiểm thử và đảm bảo chất lượng PM\QLTX1\QLTX1\QLTX\QLTX\QLTX\QLTX\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Lenovo\OneDrive\Documents\Năm 4 - Kì1\Kiểm thử và đảm bảo chất lượng PM\QLTX1\QLTX1\QLTX\QLTX\QLTX\QLTX\bin\Debug\System.Diagnostics.EventLog.xml
+C:\Users\Lenovo\OneDrive\Documents\Năm 4 - Kì1\Kiểm thử và đảm bảo chất lượng PM\QLTX1\QLTX1\QLTX\QLTX\QLTX\QLTX\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+C:\Users\Lenovo\OneDrive\Documents\Năm 4 - Kì1\Kiểm thử và đảm bảo chất lượng PM\QLTX1\QLTX1\QLTX\QLTX\QLTX\QLTX\bin\Debug\System.Drawing.Common.xml
+C:\Users\Lenovo\OneDrive\Documents\Năm 4 - Kì1\Kiểm thử và đảm bảo chất lượng PM\QLTX1\QLTX1\QLTX\QLTX\QLTX\QLTX\bin\Debug\System.IO.FileSystem.AccessControl.xml
+C:\Users\Lenovo\OneDrive\Documents\Năm 4 - Kì1\Kiểm thử và đảm bảo chất lượng PM\QLTX1\QLTX1\QLTX\QLTX\QLTX\QLTX\bin\Debug\System.IO.Packaging.xml
+C:\Users\Lenovo\OneDrive\Documents\Năm 4 - Kì1\Kiểm thử và đảm bảo chất lượng PM\QLTX1\QLTX1\QLTX\QLTX\QLTX\QLTX\bin\Debug\System.IO.Ports.xml
+C:\Users\Lenovo\OneDrive\Documents\Năm 4 - Kì1\Kiểm thử và đảm bảo chất lượng PM\QLTX1\QLTX1\QLTX\QLTX\QLTX\QLTX\bin\Debug\System.Memory.xml
+C:\Users\Lenovo\OneDrive\Documents\Năm 4 - Kì1\Kiểm thử và đảm bảo chất lượng PM\QLTX1\QLTX1\QLTX\QLTX\QLTX\QLTX\bin\Debug\System.Memory.Data.xml
+C:\Users\Lenovo\OneDrive\Documents\Năm 4 - Kì1\Kiểm thử và đảm bảo chất lượng PM\QLTX1\QLTX1\QLTX\QLTX\QLTX\QLTX\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Lenovo\OneDrive\Documents\Năm 4 - Kì1\Kiểm thử và đảm bảo chất lượng PM\QLTX1\QLTX1\QLTX\QLTX\QLTX\QLTX\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Lenovo\OneDrive\Documents\Năm 4 - Kì1\Kiểm thử và đảm bảo chất lượng PM\QLTX1\QLTX1\QLTX\QLTX\QLTX\QLTX\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Lenovo\OneDrive\Documents\Năm 4 - Kì1\Kiểm thử và đảm bảo chất lượng PM\QLTX1\QLTX1\QLTX\QLTX\QLTX\QLTX\bin\Debug\System.Security.Cryptography.Pkcs.xml
+C:\Users\Lenovo\OneDrive\Documents\Năm 4 - Kì1\Kiểm thử và đảm bảo chất lượng PM\QLTX1\QLTX1\QLTX\QLTX\QLTX\QLTX\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\Lenovo\OneDrive\Documents\Năm 4 - Kì1\Kiểm thử và đảm bảo chất lượng PM\QLTX1\QLTX1\QLTX\QLTX\QLTX\QLTX\bin\Debug\System.Security.Cryptography.Xml.xml
+C:\Users\Lenovo\OneDrive\Documents\Năm 4 - Kì1\Kiểm thử và đảm bảo chất lượng PM\QLTX1\QLTX1\QLTX\QLTX\QLTX\QLTX\bin\Debug\System.Security.Permissions.xml
+C:\Users\Lenovo\OneDrive\Documents\Năm 4 - Kì1\Kiểm thử và đảm bảo chất lượng PM\QLTX1\QLTX1\QLTX\QLTX\QLTX\QLTX\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Lenovo\OneDrive\Documents\Năm 4 - Kì1\Kiểm thử và đảm bảo chất lượng PM\QLTX1\QLTX1\QLTX\QLTX\QLTX\QLTX\bin\Debug\System.ServiceModel.Syndication.xml
+C:\Users\Lenovo\OneDrive\Documents\Năm 4 - Kì1\Kiểm thử và đảm bảo chất lượng PM\QLTX1\QLTX1\QLTX\QLTX\QLTX\QLTX\bin\Debug\System.ServiceProcess.ServiceController.xml
+C:\Users\Lenovo\OneDrive\Documents\Năm 4 - Kì1\Kiểm thử và đảm bảo chất lượng PM\QLTX1\QLTX1\QLTX\QLTX\QLTX\QLTX\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\Lenovo\OneDrive\Documents\Năm 4 - Kì1\Kiểm thử và đảm bảo chất lượng PM\QLTX1\QLTX1\QLTX\QLTX\QLTX\QLTX\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Lenovo\OneDrive\Documents\Năm 4 - Kì1\Kiểm thử và đảm bảo chất lượng PM\QLTX1\QLTX1\QLTX\QLTX\QLTX\QLTX\bin\Debug\System.Text.Json.xml
+C:\Users\Lenovo\OneDrive\Documents\Năm 4 - Kì1\Kiểm thử và đảm bảo chất lượng PM\QLTX1\QLTX1\QLTX\QLTX\QLTX\QLTX\bin\Debug\System.Threading.AccessControl.xml
+C:\Users\Lenovo\OneDrive\Documents\Năm 4 - Kì1\Kiểm thử và đảm bảo chất lượng PM\QLTX1\QLTX1\QLTX\QLTX\QLTX\QLTX\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Lenovo\OneDrive\Documents\Năm 4 - Kì1\Kiểm thử và đảm bảo chất lượng PM\QLTX1\QLTX1\QLTX\QLTX\QLTX\QLTX\bin\Debug\System.ValueTuple.xml
+C:\Users\Lenovo\OneDrive\Documents\Năm 4 - Kì1\Kiểm thử và đảm bảo chất lượng PM\QLTX1\QLTX1\QLTX\QLTX\QLTX\QLTX\obj\Debug\QLTX.csprojAssemblyReference.cache
+C:\Users\Lenovo\OneDrive\Documents\Năm 4 - Kì1\Kiểm thử và đảm bảo chất lượng PM\QLTX1\QLTX1\QLTX\QLTX\QLTX\QLTX\obj\Debug\PJ_For_Wang_Test.exe.config
+C:\Users\Lenovo\OneDrive\Documents\Năm 4 - Kì1\Kiểm thử và đảm bảo chất lượng PM\QLTX1\QLTX1\QLTX\QLTX\QLTX\QLTX\obj\Debug\PJ_For_Wang_Test.Form1.resources
+C:\Users\Lenovo\OneDrive\Documents\Năm 4 - Kì1\Kiểm thử và đảm bảo chất lượng PM\QLTX1\QLTX1\QLTX\QLTX\QLTX\QLTX\obj\Debug\PJ_For_Wang_Test.Forms.FormBangLuong.resources
+C:\Users\Lenovo\OneDrive\Documents\Năm 4 - Kì1\Kiểm thử và đảm bảo chất lượng PM\QLTX1\QLTX1\QLTX\QLTX\QLTX\QLTX\obj\Debug\PJ_For_Wang_Test.Forms.FormBaoCao.resources
+C:\Users\Lenovo\OneDrive\Documents\Năm 4 - Kì1\Kiểm thử và đảm bảo chất lượng PM\QLTX1\QLTX1\QLTX\QLTX\QLTX\QLTX\obj\Debug\PJ_For_Wang_Test.Forms.FormGioHD.resources
+C:\Users\Lenovo\OneDrive\Documents\Năm 4 - Kì1\Kiểm thử và đảm bảo chất lượng PM\QLTX1\QLTX1\QLTX\QLTX\QLTX\QLTX\obj\Debug\PJ_For_Wang_Test.Forms.FormTaiXe.resources
+C:\Users\Lenovo\OneDrive\Documents\Năm 4 - Kì1\Kiểm thử và đảm bảo chất lượng PM\QLTX1\QLTX1\QLTX\QLTX\QLTX\QLTX\obj\Debug\PJ_For_Wang_Test.Forms.FormQLPT.resources
+C:\Users\Lenovo\OneDrive\Documents\Năm 4 - Kì1\Kiểm thử và đảm bảo chất lượng PM\QLTX1\QLTX1\QLTX\QLTX\QLTX\QLTX\obj\Debug\PJ_For_Wang_Test.Forms.FormQuanLyVi.resources
+C:\Users\Lenovo\OneDrive\Documents\Năm 4 - Kì1\Kiểm thử và đảm bảo chất lượng PM\QLTX1\QLTX1\QLTX\QLTX\QLTX\QLTX\obj\Debug\PJ_For_Wang_Test.Login.resources
+C:\Users\Lenovo\OneDrive\Documents\Năm 4 - Kì1\Kiểm thử và đảm bảo chất lượng PM\QLTX1\QLTX1\QLTX\QLTX\QLTX\QLTX\obj\Debug\PJ_For_Wang_Test.PopsUp.PopUpBangLuong_Add.resources
+C:\Users\Lenovo\OneDrive\Documents\Năm 4 - Kì1\Kiểm thử và đảm bảo chất lượng PM\QLTX1\QLTX1\QLTX\QLTX\QLTX\QLTX\obj\Debug\PJ_For_Wang_Test.PopsUp.PopUpBangLuong_Delete.resources
+C:\Users\Lenovo\OneDrive\Documents\Năm 4 - Kì1\Kiểm thử và đảm bảo chất lượng PM\QLTX1\QLTX1\QLTX\QLTX\QLTX\QLTX\obj\Debug\PJ_For_Wang_Test.PopsUp.PopUpBangLuong_Update.resources
+C:\Users\Lenovo\OneDrive\Documents\Năm 4 - Kì1\Kiểm thử và đảm bảo chất lượng PM\QLTX1\QLTX1\QLTX\QLTX\QLTX\QLTX\obj\Debug\PJ_For_Wang_Test.PopsUp.PopUpGioHD_Add.resources
+C:\Users\Lenovo\OneDrive\Documents\Năm 4 - Kì1\Kiểm thử và đảm bảo chất lượng PM\QLTX1\QLTX1\QLTX\QLTX\QLTX\QLTX\obj\Debug\PJ_For_Wang_Test.PopsUp.PopUpGioHD_Delete.resources
+C:\Users\Lenovo\OneDrive\Documents\Năm 4 - Kì1\Kiểm thử và đảm bảo chất lượng PM\QLTX1\QLTX1\QLTX\QLTX\QLTX\QLTX\obj\Debug\PJ_For_Wang_Test.PopsUp.PopUpGioHD_Update.resources
+C:\Users\Lenovo\OneDrive\Documents\Năm 4 - Kì1\Kiểm thử và đảm bảo chất lượng PM\QLTX1\QLTX1\QLTX\QLTX\QLTX\QLTX\obj\Debug\PJ_For_Wang_Test.PopsUp.PopUp_QLPT_Add.resources
+C:\Users\Lenovo\OneDrive\Documents\Năm 4 - Kì1\Kiểm thử và đảm bảo chất lượng PM\QLTX1\QLTX1\QLTX\QLTX\QLTX\QLTX\obj\Debug\PJ_For_Wang_Test.PopsUp.PopUp_QLPT_Delete.resources
+C:\Users\Lenovo\OneDrive\Documents\Năm 4 - Kì1\Kiểm thử và đảm bảo chất lượng PM\QLTX1\QLTX1\QLTX\QLTX\QLTX\QLTX\obj\Debug\PJ_For_Wang_Test.PopsUp.PopUp_QLPT_Update.resources
+C:\Users\Lenovo\OneDrive\Documents\Năm 4 - Kì1\Kiểm thử và đảm bảo chất lượng PM\QLTX1\QLTX1\QLTX\QLTX\QLTX\QLTX\obj\Debug\PJ_For_Wang_Test.PopsUp.PopUp_QLTX_ADD.resources
+C:\Users\Lenovo\OneDrive\Documents\Năm 4 - Kì1\Kiểm thử và đảm bảo chất lượng PM\QLTX1\QLTX1\QLTX\QLTX\QLTX\QLTX\obj\Debug\PJ_For_Wang_Test.PopsUp.PopUp_QLTX_Delete.resources
+C:\Users\Lenovo\OneDrive\Documents\Năm 4 - Kì1\Kiểm thử và đảm bảo chất lượng PM\QLTX1\QLTX1\QLTX\QLTX\QLTX\QLTX\obj\Debug\PJ_For_Wang_Test.PopsUp.PopUp_QLTX_Update.resources
+C:\Users\Lenovo\OneDrive\Documents\Năm 4 - Kì1\Kiểm thử và đảm bảo chất lượng PM\QLTX1\QLTX1\QLTX\QLTX\QLTX\QLTX\obj\Debug\PJ_For_Wang_Test.PopsUp.PopUp_SoDuViDuoi.resources
+C:\Users\Lenovo\OneDrive\Documents\Năm 4 - Kì1\Kiểm thử và đảm bảo chất lượng PM\QLTX1\QLTX1\QLTX\QLTX\QLTX\QLTX\obj\Debug\PJ_For_Wang_Test.PopsUp.PopUp_SoDuViTren.resources
+C:\Users\Lenovo\OneDrive\Documents\Năm 4 - Kì1\Kiểm thử và đảm bảo chất lượng PM\QLTX1\QLTX1\QLTX\QLTX\QLTX\QLTX\obj\Debug\PJ_For_Wang_Test.Properties.Resources.resources
+C:\Users\Lenovo\OneDrive\Documents\Năm 4 - Kì1\Kiểm thử và đảm bảo chất lượng PM\QLTX1\QLTX1\QLTX\QLTX\QLTX\QLTX\obj\Debug\QLTX.csproj.GenerateResource.cache
+C:\Users\Lenovo\OneDrive\Documents\Năm 4 - Kì1\Kiểm thử và đảm bảo chất lượng PM\QLTX1\QLTX1\QLTX\QLTX\QLTX\QLTX\obj\Debug\QLTX.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Documents\Năm 4 - Kì1\Kiểm thử và đảm bảo chất lượng PM\QLTX1\QLTX1\QLTX\QLTX\QLTX\QLTX\obj\Debug\QLTX.csproj.Fody.CopyLocal.cache
+C:\Users\Lenovo\OneDrive\Documents\Năm 4 - Kì1\Kiểm thử và đảm bảo chất lượng PM\QLTX1\QLTX1\QLTX\QLTX\QLTX\QLTX\obj\Debug\QLTX.csproj.CopyComplete
+C:\Users\Lenovo\OneDrive\Documents\Năm 4 - Kì1\Kiểm thử và đảm bảo chất lượng PM\QLTX1\QLTX1\QLTX\QLTX\QLTX\QLTX\obj\Debug\PJ_For_Wang_Test.exe
+C:\Users\Lenovo\OneDrive\Documents\Năm 4 - Kì1\Kiểm thử và đảm bảo chất lượng PM\QLTX1\QLTX1\QLTX\QLTX\QLTX\QLTX\obj\Debug\PJ_For_Wang_Test.pdb
